@@ -21,6 +21,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**taskflow-api**](https://github.com/sciamanamarcio/taskflow-api) | Production-style REST API with JWT auth, task CRUD, integration tests, Docker and CI | Node.js, TypeScript, Express, PostgreSQL, Prisma |
+| [**taskflow-dashboard**](https://github.com/sciamanamarcio/taskflow-dashboard) | React dashboard for the TaskFlow API with auth, protected routes, TanStack Query, tests, Docker and CI | React, TypeScript, Vite, TanStack Query |
 
 More projects are on the way: a React dashboard, async processing services, mobile and infrastructure as code.
 
