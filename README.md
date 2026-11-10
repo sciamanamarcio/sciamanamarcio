@@ -11,6 +11,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -23,6 +25,8 @@
 | [**taskflow-api**](https://github.com/sciamanamarcio/taskflow-api) | Production-style REST API with JWT auth, task CRUD, integration tests, Docker and CI | Node.js, TypeScript, Express, PostgreSQL, Prisma |
 | [**taskflow-dashboard**](https://github.com/sciamanamarcio/taskflow-dashboard) | React dashboard for the TaskFlow API with auth, protected routes, TanStack Query, tests, Docker and CI | React, TypeScript, Vite, TanStack Query |
 | [**jobflow-service**](https://github.com/sciamanamarcio/jobflow-service) | Async job processing service with a FastAPI API, Celery workers, Redis, Docker Compose and CI | Python, FastAPI, Celery, Redis |
+| [**urlwatch**](https://github.com/sciamanamarcio/urlwatch) | Concurrent URL health checker with a CLI, an HTTP service, worker pool, Docker and CI | Go |
+| [**urlwatch**](https://github.com/sciamanamarcio/urlwatch) | Concurrent URL health checker with a CLI, an HTTP service, worker pool, Docker and CI | Go |
 
 More projects are on the way: mobile and infrastructure as code.
 
