@@ -7,6 +7,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -25,8 +26,9 @@
 | [**taskflow-dashboard**](https://github.com/sciamanamarcio/taskflow-dashboard) | React dashboard for the TaskFlow API with auth, protected routes, TanStack Query, tests, Docker and CI | React, TypeScript, Vite, TanStack Query |
 | [**jobflow-service**](https://github.com/sciamanamarcio/jobflow-service) | Async job processing service with a FastAPI API, Celery workers, Redis, Docker Compose and CI | Python, FastAPI, Celery, Redis |
 | [**urlwatch**](https://github.com/sciamanamarcio/urlwatch) | Concurrent URL health checker with a CLI, an HTTP service, worker pool, Docker and CI | Go |
+| [**taskflow-mobile**](https://github.com/sciamanamarcio/taskflow-mobile) | React Native app for the TaskFlow API with secure token storage, infinite list, tests and CI | React Native, Expo, TypeScript |
 
-More projects are on the way: mobile and infrastructure as code.
+More projects are on the way: infrastructure as code.
 
 ## 🎯 What I care about
 
