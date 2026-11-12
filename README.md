@@ -17,6 +17,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
 
 ## 🚀 Featured projects
 
@@ -27,8 +29,9 @@
 | [**jobflow-service**](https://github.com/sciamanamarcio/jobflow-service) | Async job processing service with a FastAPI API, Celery workers, Redis, Docker Compose and CI | Python, FastAPI, Celery, Redis |
 | [**urlwatch**](https://github.com/sciamanamarcio/urlwatch) | Concurrent URL health checker with a CLI, an HTTP service, worker pool, Docker and CI | Go |
 | [**taskflow-mobile**](https://github.com/sciamanamarcio/taskflow-mobile) | React Native app for the TaskFlow API with secure token storage, infinite list, tests and CI | React Native, Expo, TypeScript |
+| [**taskflow-infra**](https://github.com/sciamanamarcio/taskflow-infra) | Terraform code that hosts the dashboard on AWS (S3, CloudFront, GitHub OIDC), with a CI security scan | Terraform, AWS, GitHub Actions |
 
-More projects are on the way: infrastructure as code.
+More projects are on the way.
 
 ## 🎯 What I care about
 
